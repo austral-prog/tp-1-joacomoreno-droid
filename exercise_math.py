@@ -13,3 +13,18 @@ def math():
     """
     a = 57
     b = 7
+
+    suma = a + b
+    diferencia = a - b
+    producto = a * b
+    promedio = suma / diferencia
+    cociente_entero = a // b
+    resto = a % b
+    valor_real = a / b
+
+    print(f"La suma es: {suma}")
+    print(f"La diferencia es: {diferencia}")
+    print(f"El promedio es: {promedio}")
+    print(f"El cociente es: {cociente_entero}")
+    print(f"El resto es: {resto}")
+    print(f"El valor real es: {valor_real}")
