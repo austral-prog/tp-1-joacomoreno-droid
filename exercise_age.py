@@ -19,3 +19,5 @@ def age():
     print(dias)
     print(horas)
     print(minutos)
+
+age()
