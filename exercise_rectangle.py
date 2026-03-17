@@ -12,5 +12,5 @@ def rectangle():
     area = (base * altura)
     perimetro = 2 * base + 2 * altura
 
-    print(f"area: {area}")
-    print(f"perimetro: {perimetro}")
+    print(area)
+    print(perimetro)
