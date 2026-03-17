@@ -6,7 +6,7 @@ def circle():
     1. El área (π × radio²)
     2. La circunferencia (2 × π × radio)
     """
- radio = 5
+    radio = 5
 
 
     area = pi * (radio ** 2)
