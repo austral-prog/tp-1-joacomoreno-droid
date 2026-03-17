@@ -16,6 +16,6 @@ def currency():
     euros = 10000 / 1600
     tasa_real = 10000 / 250
 
-    print(f"Monto en dolares: {dolares}")
-    print(f"Monto en euros: {euros}")
-    print(f"Monto en reales: {dolares}")
+    print(dolares)
+    print(euros)
+    print(tasa_real)
