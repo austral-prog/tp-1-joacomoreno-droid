@@ -18,3 +18,5 @@ def circle():
     print(f"1. El área es: {area}")
     print(f"2. La circunferencia es: {circunferencia}")
 
+circle()
+
