@@ -20,4 +20,5 @@ def age():
     print("Edad en horas", horas)
     print("Edad en minutos", minutos)
 
+age()
 
