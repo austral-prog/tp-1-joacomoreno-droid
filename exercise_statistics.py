@@ -11,6 +11,7 @@ def statistics():
     num1 = 15
     num2 = 8
     num3 = 23
+    num4 = 12
 
     promedio = (num1 + num2 + num3 + num4) / 4
     maximo = max(num1, num2, num3, num4)
