@@ -15,10 +15,7 @@ def age():
     horas = dias * 24
     minutos = horas * 60
 
-    print("Edad en meses:", meses)
-    print("Edad en dias:", dias)
-    print("Edad en horas", horas)
-    print("Edad en minutos", minutos)
-
-age()
-
+    print(meses)
+    print(dias)
+    print(horas)
+    print(minutos)
