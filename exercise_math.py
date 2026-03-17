@@ -29,4 +29,3 @@ def math():
     print(cociente_entero)
     print(resto)
     print(valor_real)
-
