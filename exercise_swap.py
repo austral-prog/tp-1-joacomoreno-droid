@@ -11,12 +11,12 @@ def swap():
     x = 10
     y = 20
 
-     original_x = x
+    original_x = x
     original_y = y
     intercambio_x = y
     intercambio_y = x
 
-    print(f"El valor original de x: {original_x}")
-    print(f"El valor original de y: {original_y}")
-    print(f"El valor despues del intercambio de x: {intercambio_x}")
-    print(f" El valor despues del intercambio de y: {intercambio_y}")
+    print(original_x)
+    print(original_y)
+    print(intercambio_x)
+    print(intercambio_y)
